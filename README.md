@@ -20,6 +20,8 @@ Comencem a familiaritzar-nos amb les estructures de dades de Python
 - Exercici 3:
   - Crea un diccionari de la següent forma i respon a les preguntes:
   - compra = { "Pomes" : {"Qty": 5, "€": 0.42}, "Peres" : {"Qty": 3, "€": 0.66} }
+  
+  
     - Afegeix alguna fruita més
     - Quant han costat les peres en total?
     - Quantes fruites hem comprat en total?
