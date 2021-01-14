@@ -13,7 +13,7 @@ Comencem a familiaritzar-nos amb les estructures de dades de Python
   - Crea un codi que et permeti accedir a:
     - El segon més del primer trimestre
     - Els mesos del primer trimestre
--   Setembre i octubre
+    - Setembre i octubre
   
 - Exercici 3:
   - Crea una llista amb nombres desordenats i respon a les següents preguntes:
